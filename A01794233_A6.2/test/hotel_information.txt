@@ -1,0 +1,2 @@
+Name: Hotel, City: City, Rooms: 5
+Name: AA, BB, email: aa@bb.com, type of room: X
